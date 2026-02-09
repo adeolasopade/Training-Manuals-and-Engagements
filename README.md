@@ -1,6 +1,6 @@
 # Training Manuals and Engagements
 
-I deliver business-focused security and data protection [trainings](https://drive.google.com/drive/folders/1mwyKAbbCTWmXCoX4aJmvkrwHrG1m8AQk?usp=drive_link) that turn complex rules into clear, actionable steps for teams and leaders.
+I deliver business-focused information security and data protection [trainings](https://drive.google.com/drive/folders/1mwyKAbbCTWmXCoX4aJmvkrwHrG1m8AQk?usp=drive_link) that turn complex rules into clear, actionable steps for teams and leaders.
 
 ---
 
