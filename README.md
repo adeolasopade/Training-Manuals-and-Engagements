@@ -65,7 +65,7 @@ My sessions are consistently praised for being interactive, engaging, and design
 
 ----
 
-## Other Speaking Engagements
+## Cover Images
 <img width="600" height="750" alt="SystemSpecs DP" src="https://github.com/user-attachments/assets/0baea5dc-f4b7-40d7-a8df-fb807a5b8b20" />
 <img width="640" height="905" alt="DS Consortium" src="https://github.com/user-attachments/assets/5a56835b-1f89-4b2b-abe1-dda08b54df20" />
 
